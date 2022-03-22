@@ -1,33 +1,24 @@
-# saveplanetearth
-Application that monitors the health of woods, forest and parks of our planet
-
-
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
 # Project Title
 
 Save Planet Earth (Final project for the Building AI course)
 
 ## Summary
 
-Application that monitors the health of woods, forest and parks of our planet. This application is able to recognize the green zones and their characteristcs based on high resolution sattelite pictures
-
-It's developed base on AI methods like machine learning 
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Save Planet Earth is a tool that monitors the health of woods, forest and parks of our planet. This application is able to recognize the green zones and their characteristcs based on high resolution sattelite pictures. The aim of this project is to monitor the evolution of forests over time and to create awareness about 
+the massive deforestations our planet is victim of.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Planet earth needs forests, woods and parks to prosper. Today planet earth is in danger due to human activities. Every years, big forests are cutted down. Their superficy decreases at a frightening speed.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+But who has a clear global view of the health of the green zones of planet earth ? Some internatinal institutes may know, but at what extent. It's time to give awerness to everyone about the consequence of our behavior towards planet Earth.
 
+This application will show to everyone the health states of each forests and highlight the zone where there is a deterioration over the last years. 
+
+if thanks to this applications, more people are aware about the sitution and some of them take congrete action, it'd be considered as a success
+
+In the future, we can also think about a advanved version for envirnonmental expert that will analyze more precisely the evolution of a forest over time.
 
 ## How is it used?
 
