@@ -1,6 +1,4 @@
-# Project Title
-
-Save Planet Earth (Final project for the Building AI course)
+# Save Planet Earth
 
 ## Summary
 
