@@ -31,11 +31,11 @@ Running the model over such a large area of high-resolution imagery is a huge ta
 
 ## The process
 
-•	Create a high-quality map of green zone in a country
-•	Generate a training dataset
-•	Create and tune a Forest classifier
-•	Run the model in another country to identify candidate unmapped forests
-•	Validate these predictions with people on the ground
+*	Create a high-quality map of green zone in a country
+*	Generate a training dataset
+*	Create and tune a Forest classifier
+*	Run the model in another country to identify candidate unmapped forests
+*	Validate these predictions with people on the ground
 
 ## Challenges
 
