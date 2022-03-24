@@ -21,6 +21,7 @@ Today the project contains only one file README.md. This section will be updated
 
 
 ## Data sources and AI methods
+
 Data sources we need for this project is a data base of high-level resolution satellite pictures. There are different satellite images providers on the market. We need to do a market analysis to choose the most appropriate.
 Also, the database needs to be updated regularly with up-to-date satellite pictures.
 
@@ -28,7 +29,8 @@ Using a combination of deep machine learning techniques and trained human mapper
 Training data from a well know country is used to tune the algorithm for a Forest classifier based on a convolutional neural network (CNN). The CNN can be created by modifying existing tools based on Xception and MobileNetV2 so that they could use satellite imagery.
 Running the model over such a large area of high-resolution imagery is a huge task – several million images must be processed. We will user the open source tool created by Development Seed, chip-n-scale-queue-arranger, to manage the high-volume satellite imagery inference tasks.
 
-##The process
+## The process
+
 •	Create a high-quality map of green zone in a country
 •	Generate a training dataset
 •	Create and tune a Forest classifier
